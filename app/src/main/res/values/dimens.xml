@@ -33,10 +33,7 @@
     <dimen name="font_size_subheading_tall_17">17sp</dimen>
     <dimen name="font_size_body_english_14">14sp</dimen>
     <dimen name="font_size_body_tall_15">15sp</dimen>
-
-    <!--Ratio-->
-    <dimen name="text_ratio_minimum_4.5x1">4.5/1</dimen>
-    <dimen name="text_ratio_preferred_7x1">7/1</dimen>
-
+    <dimen name="size_big_72">72dp</dimen>
+    <dimen name="line_size">2dp</dimen>
 
 </resources>
